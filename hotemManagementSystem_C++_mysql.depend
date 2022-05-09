@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1647342178 source:c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\hotelmanager.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Customer.h"
+	"Room.h"
+	"hotelManager.h"
+	"sql.h"
+
+1647339657 c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\customer.h
+	<windows.h>
+
+1647339643 c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\room.h
+	<windows.h>
+	"Customer.h"
+
+1647327322 c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\hotelmanager.h
+	<windows.h>
+	"Room.h"
+
+1647327512 c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\sql.h
+	<windows.h>
+	<mysql.h>
+
+1647326788 source:c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Customer.h"
+	"Room.h"
+	"hotelManager.h"
+	"sql.h"
+
+1647339772 source:c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\room.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"hotelManager.h"
+	"Room.h"
+	"Customer.h"
+	"sql.h"
+
+1647326920 source:c:\users\adones\downloads\c++ project\hotemmanagementsystem_c++_mysql\sql.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"hotelManager.h"
+	"Room.h"
+	"Customer.h"
+	"sql.h"
+
+1647342178 source:d:\hotemmanagementsystem_c++_mysql\hotelmanager.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Customer.h"
+	"Room.h"
+	"hotelManager.h"
+	"sql.h"
+
+1647339657 d:\hotemmanagementsystem_c++_mysql\customer.h
+	<windows.h>
+
+1647339643 d:\hotemmanagementsystem_c++_mysql\room.h
+	<windows.h>
+	"Customer.h"
+
+1647327322 d:\hotemmanagementsystem_c++_mysql\hotelmanager.h
+	<windows.h>
+	"Room.h"
+
+1647327512 d:\hotemmanagementsystem_c++_mysql\sql.h
+	<windows.h>
+	<mysql.h>
+
+1647326788 source:d:\hotemmanagementsystem_c++_mysql\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Customer.h"
+	"Room.h"
+	"hotelManager.h"
+	"sql.h"
+
+1647339772 source:d:\hotemmanagementsystem_c++_mysql\room.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"hotelManager.h"
+	"Room.h"
+	"Customer.h"
+	"sql.h"
+
+1647326920 source:d:\hotemmanagementsystem_c++_mysql\sql.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"hotelManager.h"
+	"Room.h"
+	"Customer.h"
+	"sql.h"
+
